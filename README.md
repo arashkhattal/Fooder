@@ -1,5 +1,5 @@
 # FoodeR
-The *Online Food Ordering System*(FoodeR) is a Static Website. It has a food ordering Website for a customer.
+The *Online Food Ordering System*(FoodeR) is a Static Website. It has a food ordering System for a customer.
 ## Features
 - Friendly user interface.
 - Customers can browse the menu.
